@@ -2,7 +2,7 @@
   "package": "Beeper",
   "title": "Make a sound when the beep is made!",
   "description": "Make a sound when the beep is made!",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "gesslar",
   "icon": "bell.png",
   "dependencies": "",
